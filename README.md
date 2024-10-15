@@ -71,7 +71,7 @@ This endpoint is expected to manage the shopping cart items. Make sure to set up
 4.After Removing Items
 ![Screenshot (34)](https://github.com/user-attachments/assets/8da59294-179f-40b1-8576-824479629ea0)
 
-5.Files
+
 ![Screenshot (35)](https://github.com/user-attachments/assets/77493e32-434e-43c4-902f-651cdf644c8f)
 
 
